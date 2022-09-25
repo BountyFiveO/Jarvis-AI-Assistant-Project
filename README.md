@@ -1,28 +1,17 @@
-# Google Assistant Unofficial Desktop Client
+# Jarvis AI Assistant - Desktop Client Project
 
-[![Build](https://img.shields.io/github/workflow/status/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/nodejs-ci?logo=github&style=for-the-badge)][build]
-[![Downloads](https://img.shields.io/github/downloads/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/total.svg?logo=github&style=for-the-badge)][downloads]
-[![Issues](https://img.shields.io/github/issues/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client.svg?logo=github&style=for-the-badge)][issues]
-[![License](https://img.shields.io/github/license/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client.svg?style=for-the-badge&color=blue)][license]
-[![Top Language](https://img.shields.io/github/languages/top/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client.svg?style=for-the-badge&color=yellow)][top-lang]
-[![Last Commit](https://img.shields.io/github/last-commit/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client.svg?style=for-the-badge)][commits]
-[![Commits since last release](https://img.shields.io/github/commits-since/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/latest.svg?style=for-the-badge)][commits]
-[![Milestone v2.0.0](https://img.shields.io/badge/Milestone%20v2.0.0-Next-blueviolet?style=for-the-badge)][next-milestone]
 
-![G Assist Banner](images/Banner.png)
 
-Google Assistant Unofficial Desktop Client is a cross-platform desktop client for Google Assistant based on **Google Assistant SDK**.
+
 
 > Note:
 > ---
 >
-> The **"Google Assistant Unofficial Desktop Client"** is under development. So, if you find any bugs or have any suggestion, feel free to post an _issue_ or a _pull request_.
+> The **"Jarvis AI Assistant"** is under development. So, if you find any bugs or have any suggestion, feel free to post an _issue_ or a _pull request_.
 
 ## Inspiration
 
 The design is inspired by Google Assistant in Chrome OS and comes in both Light Mode _(beta)_ and Dark Mode 😉.
-
-![G Assist Screenshot](images/Assistant_light_dark.jpg)
 
 ## Download
 
